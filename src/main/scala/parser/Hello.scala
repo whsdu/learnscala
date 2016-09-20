@@ -76,6 +76,4 @@ object Hello extends App{
   val tfiql = new BasicIntQue with Filtering with Incrementing
   tfiql.put(-1)
   println(tfiql.get)
-
-  println("test git after the first time I change this file")
 }
