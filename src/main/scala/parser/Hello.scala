@@ -77,5 +77,5 @@ object Hello extends App{
   tfiql.put(-1)
   println(tfiql.get)
 
-  println("test the git plugins")
+  println("test git after the first time I change this file")
 }

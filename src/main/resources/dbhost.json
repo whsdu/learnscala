@@ -1,0 +1,52 @@
+{
+    "GTBU": {
+        "usr": "aidsysSelect",
+        "pwd": "eB9QpbvIcHF7rs9eB9QpcHF7rs9eB9QpbvIcHF7rs9",
+        "host": "52.76.227.64",
+        "port": 3306
+    },
+    "NON_GTBU": {
+        "usr": "Queryonly",
+        "pwd": "Queryonly!=",
+        "host": "202.82.79.130",
+        "port": 10023
+    },
+    "REMOTE": {
+        "usr": "useralarm",
+        "pwd": "teyack!990",
+        "host": "52.76.199.199",
+        "port": 3306
+    },
+    "MONGO_GTBU":{
+        "host":"52.76.228.13",
+        "port":57111
+    },
+    "MONGO_NONGTBU":{
+        "host":"202.82.79.129",
+        "port":10076
+    },
+    "OMS":{
+        "usr":"itquery",
+        "pwd":"2MdfY9EsdhkldHvKXMkSuyJGJGJhhhIT",
+        "host":"54.222.158.248",
+        "port":55212
+    },
+    "CRM":{
+	"usr":"itquery",
+	"pwd":"2icciIkkNU87Pf22icciIkkNU87Pf2",
+	"host":"118.143.149.176",
+	"port":10023
+    },
+    "ASS_GTBU":{
+	"usr":"aidsysSelect",
+	"pwd": "eB9QpbvIcHF7rs9eB9QpcHF7rs9eB9QpbvIcHF7rs9",
+	"host":"52.74.132.61",
+	"port":55151
+    },
+    "YROAM":{
+	"usr":"aidsysSelect",
+	"pwd":"eB9QpbvIcHF7rs9eB9QpcHF7rs9eB9QpbvIcHF7rs9",
+	"host":"52.28.234.221",
+	"port":55151
+    }
+}
